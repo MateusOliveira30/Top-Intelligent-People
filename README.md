@@ -1,28 +1,28 @@
-# Análise de Pessoas Inteligentes
+# Analysis of Intelligent People
 
-Este projeto realiza uma análise exploratória dos dados contidos no arquivo top_intelligent_people_in_the_world_5000.csv, que inclui informações sobre algumas das pessoas mais inteligentes do mundo. Utilizamos bibliotecas como pandas e matplotlib para manipulação e visualização dos dados.
+### Introduction
 
-### Dependências
+This project performs an exploratory analysis of the data contained in the file top_intelligent_people_in_the_world_5000.csv, which includes information about some of the most intelligent people in the world. We use libraries like pandas and matplotlib for data manipulation and visualization.
 
-Para executar este notebook, você precisará das seguintes bibliotecas Python:
+### Dependencies
 
-1. pandas
-2. matplotlib
+To run this notebook, you will need the following Python libraries:
 
-### Análise Exploratória
+#### 1. pandas
+#### 2. matplotlib
 
-A análise inclui etapas como:
+### Exploratory Analysis
 
-1. Verificação de valores ausentes
-2. Descrição das variáveis
-3. Visualização dos dados através de gráficos
+The analysis includes steps such as:
 
-### Como Usar
+#### 1. Checking for missing values
+#### 2. Describing the variables
+#### 3. Visualizing the data through charts
 
-Certifique-se de que o arquivo top_intelligent_people_in_the_world_5000.csv está no mesmo diretório que o notebook.
-Execute as células do notebook sequencialmente para reproduzir a análise.
+### How to Use
 
-### Contribuições
+Make sure the top_intelligent_people_in_the_world_5000.csv file is in the same directory as the notebook. Run the notebook cells sequentially to reproduce the analysis.
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+### Contributions
 
+Contributions are welcome! Feel free to open an issue or submit a pull request.
